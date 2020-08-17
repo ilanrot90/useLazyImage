@@ -1,2 +1,3 @@
 # useLazyImage
-Created with CodeSandbox
+
+## Custom hook to lazy load images
