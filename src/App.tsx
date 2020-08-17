@@ -4,7 +4,6 @@ import "./styles.css";
 
 const slides = [
   "https://loremflickr.com/cache/resized/65535_49259941592_72f50a6fbe_320_240_nofilter.jpg",
-  "https://loremflickr.com/cache/resized/65535_49972676441_fdac44cca1_320_240_nofilter.jpg",
   "https://loremflickr.com/cache/resized/65535_50091645241_868c66249a_320_240_g.jpg",
   "https://d33wubrfki0l68.cloudfront.net/dd23708ebc4053551bb33e18b7174e73b6e1710b/dea24/static/images/wallpapers/shared-colors@2x.png",
   "https://d33wubrfki0l68.cloudfront.net/49de349d12db851952c5556f3c637ca772745316/cfc56/static/images/wallpapers/bridge-02@2x.png",
