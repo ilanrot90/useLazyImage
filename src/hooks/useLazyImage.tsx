@@ -30,7 +30,7 @@ const useLazyImage = <T extends Element>({
         observer = new IntersectionObserver(
           (entries) => {
             entries.forEach((entry) => {
-              if (entry.intersectionRatio > 0 || entry.isIntersecting) {
+              if (entry.isIntersecting) {
                 setImageSrc(src);
                 setLoading(false);
                 observer.unobserve(imageRef);
